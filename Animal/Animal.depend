@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508286601 source:c:\users\user\desktop\animal\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
